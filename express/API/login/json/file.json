@@ -1,0 +1,16 @@
+[
+{
+    "uid": 2,
+    "text" : "Loving this Polymer thing.",
+    "username" : "Rob",
+    "avatar" : "/images/avatar-02.svg",
+    "favorite": true
+},
+{
+    "uid": 2,
+    "text" : "Loving this Polymer thing.",
+    "username" : "Rob",
+    "avatar" : "/images/avatar-03.svg",
+    "favorite": false
+}
+]
